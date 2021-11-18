@@ -13,6 +13,7 @@ pip install -r requirements.txt
 4. Before running the website you need to initialize the database:
 
 python3 manage.py makemigrations
+
 python3 manage.py migrate
 
 5. Now you can run the server:
